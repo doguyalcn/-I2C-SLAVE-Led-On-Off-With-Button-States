@@ -1,0 +1,2 @@
+../Core/Src/i2c_slave.c:19:6:HAL_I2C_SlaveRxCpltCallback	16	static
+../Core/Src/i2c_slave.c:25:6:LedLight	16	static
